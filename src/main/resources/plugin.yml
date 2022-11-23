@@ -1,0 +1,7 @@
+name: ShowHP
+version: '${project.version}'
+main: com.tuxpenguins.HP
+api-version: 1.19
+authors: [ TuxPenguinS ]
+description: Shows player health above their heads
+website: mkultra.tk
